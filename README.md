@@ -26,6 +26,5 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan) 
 
-[![KurenoChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurenoChan)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
