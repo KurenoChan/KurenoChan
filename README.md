@@ -16,7 +16,7 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KurenoChan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KurenoChan&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -27,5 +27,4 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
