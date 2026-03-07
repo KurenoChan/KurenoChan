@@ -24,6 +24,14 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ### 🔝 Top Contributions
 ![](https://metrics.lecoq.io)
 
+
+## 🏆 GitHub Achievements
+![](https://github-readme-stats.vercel.app)
+
+### 🔝 Top Repositories
+![](https://github-readme-stats.vercel.app)
+
+
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan) 
 
