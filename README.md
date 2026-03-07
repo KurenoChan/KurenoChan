@@ -22,10 +22,10 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![KurenoChan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KurenoChan&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
 
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan) 
 
+[![KurenoChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurenoChan)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
