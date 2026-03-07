@@ -22,7 +22,7 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KurenoChan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/KurenoChan/contributed.svg)
 
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan) 
