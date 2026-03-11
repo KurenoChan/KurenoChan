@@ -9,7 +9,9 @@
 
 ## Connect with Me
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koh-zheng-hong-3797052b3/) 
+  <a href="https://www.linkedin.com/in/koh-zheng-hong-3797052b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ## Tech Stack
