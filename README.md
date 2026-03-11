@@ -150,5 +150,3 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/KurenoChan/KurenoChan/blob/output/github-contribution-grid-snake.gif)
