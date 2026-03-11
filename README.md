@@ -100,11 +100,11 @@
 
 ## GitHub Stats:
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KurenoChan&theme=dark&hide_border=true" height="165"/>
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </div>
 
 ## Activity Graph
