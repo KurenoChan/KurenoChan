@@ -1,14 +1,14 @@
-# 💫 About Me:
+# About Me
 A motivated final-year Software Engineering student at TAR UMT with a strong interest in web and software development. Experienced in Agile-based projects, RESTful API integration, and frontend development using React.js. Actively involved in an industry-level fingerprint-scanning web application for a DMIT system. Eager to contribute as a software engineering intern while gaining hands-on experience in real-world systems.
 
 <!-- <p align="center">
   <img src="assets/game.gif" />
 </p> -->
 
-## 🌐 Connect with Me:
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koh-zheng-hong-3797052b3/) 
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -90,25 +90,25 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KurenoChan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <span>
-  ## 🏆 GitHub Trophies
+  ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KurenoChan&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 </span> -->
 
-### ✍️ Quote of the Day
+### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- <span>
-  ### 🔝 Top Contributed Repo
+  ### Top Contributed Repo
   ![top repositories](https://github-contributor-stats.vercel.app/api?username=KurenoChan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </span> -->
 
-### 💰 Support Me
+### Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kzh0295x)
 
