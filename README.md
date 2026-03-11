@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=github_dark"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=KurenoChan%20%7C%20Software%20Engineer&fontSize=60&animation=fadeIn&textBg=true" />
 </div>
 
 <!-- <p align="center">
