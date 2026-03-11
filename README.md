@@ -1,4 +1,5 @@
-# About Me
+# About Me 
+![Profile Views](https://komarev.com/ghpvc/?username=KurenoChan&color=222222&style=for-the-badge
 <div align="justify">
   A motivated final-year Software Engineering student at TAR UMT with a strong interest in web and software development. Experienced in Agile-based projects, RESTful API integration, and frontend development using React.js. Actively involved in an industry-level fingerprint-scanning web application for a DMIT system. Eager to contribute as a software engineering intern while gaining hands-on experience in real-world systems.
 </div>
@@ -10,12 +11,11 @@
 ## Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/koh-zheng-hong-3797052b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 ## Tech Stack
-
 <div align="center">
 
   ### Programming Languages
