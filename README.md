@@ -1,17 +1,20 @@
-![Profile Views](https://komarev.com/ghpvc/?username=KurenoChan&color=222222&style=for-the-badge)
-![Github Followers](https://img.shields.io/github/followers/KurenoChan?label=Followers&color=222222&style=for-the-badge)
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&text=Hello&fontSize=60&animation=fadeIn&section=header" />
+</div>
+
+<div align="center" style="display: flex;">
+    <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=KurenoChan&color=222222&style=for-the-badge" />
+        <img src="https://img.shields.io/github/followers/KurenoChan?label=Followers&color=222222&style=for-the-badge" />
+    </div>
+    <div align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=github_dark"/>
+    </div>
 </div>
 
 # About Me 
 <div align="justify">
   A motivated final-year Software Engineering student at TAR UMT with a strong interest in web and software development. Experienced in Agile-based projects, RESTful API integration, and frontend development using React.js. Actively involved in an industry-level fingerprint-scanning web application for a DMIT system. Eager to contribute as a software engineering intern while gaining hands-on experience in real-world systems.
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=github_dark"/>
 </div>
 
 <!-- <p align="center">
