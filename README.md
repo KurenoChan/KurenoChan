@@ -27,15 +27,6 @@
   <a href="https://www.linkedin.com/in/koh-zheng-hong-3797052b3/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.patreon.com/cw/KurenoChan/">
-    <img src="https://img.shields.io/badge/patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
-  </a>
-  <a href="https://ko-fi.com/kurenochan/">
-    <img src="https://img.shields.io/badge/ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="https://buymeacoffee.com/kzh0295x/">
-    <img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
 </div>
 
 ## Tech Stack
@@ -150,11 +141,14 @@
 
 ### Support Me
 <div align="center">
-  <a href="https://ko-fi.com/kurenochan" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  <a href="https://www.patreon.com/cw/KurenoChan/">
+    <img src="https://img.shields.io/badge/patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
   </a>
-  <a href="https://buymeacoffee.com/kzh0295x" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <a href="https://ko-fi.com/kurenochan/">
+    <img src="https://img.shields.io/badge/ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/kzh0295x/">
+    <img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </div>
 
