@@ -96,7 +96,8 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
   <img src="https://nirzak-streak-stats.vercel.app/?user=KurenoChan&theme=dark&hide_border=true" height="165"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical&hide_border=true" height="165"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical"/>
 </div>
 
 <!-- <span>
