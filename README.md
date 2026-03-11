@@ -104,7 +104,9 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 </span> -->
 
 ### Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <!-- <span>
   ### Top Contributed Repo
