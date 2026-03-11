@@ -1,9 +1,9 @@
 name: Generate Contribution Snake
 
 on:
-  schedule:           # run every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:   # allows manual run
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,13 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Generate the snake graph
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      # Generate animated snake GIF
       - uses: Platane/snk@master
         with:
           github_user_name: KurenoChan
-          if_out_path: dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
-      # Deploy the generated SVG to output branch
+      # Deploy to output branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
