@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KurenoChan&color=222222&style=for-the-badge)
-![Github Followers](https://img.shields.io/github/followers/KurenoChan?label=Followers&logo=[VALID_LOGO]&style=for-the-badge)
+![Github Followers](https://img.shields.io/github/followers/KurenoChan?label=Followers&color=222222&style=for-the-badge)
 
 # About Me 
 <div align="justify">
