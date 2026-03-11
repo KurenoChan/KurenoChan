@@ -133,13 +133,12 @@
 
 ### Support Me
 <div align="center">
-  <a href="https://ko-fi.com/kurenochan">
+  <a href="https://ko-fi.com/kurenochan" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
-  <a href="https://buymeacoffee.com/kzh0295x">
+  <a href="https://buymeacoffee.com/kzh0295x" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
