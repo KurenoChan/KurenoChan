@@ -1,12 +1,16 @@
 # About Me
-A motivated final-year Software Engineering student at TAR UMT with a strong interest in web and software development. Experienced in Agile-based projects, RESTful API integration, and frontend development using React.js. Actively involved in an industry-level fingerprint-scanning web application for a DMIT system. Eager to contribute as a software engineering intern while gaining hands-on experience in real-world systems.
+<div align="justify">
+  A motivated final-year Software Engineering student at TAR UMT with a strong interest in web and software development. Experienced in Agile-based projects, RESTful API integration, and frontend development using React.js. Actively involved in an industry-level fingerprint-scanning web application for a DMIT system. Eager to contribute as a software engineering intern while gaining hands-on experience in real-world systems.
+</div>
 
 <!-- <p align="center">
   <img src="assets/game.gif" />
 </p> -->
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koh-zheng-hong-3797052b3/) 
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koh-zheng-hong-3797052b3/) 
+</div>
 
 ## Tech Stack
 
