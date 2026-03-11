@@ -98,7 +98,7 @@
 
 </div>
 
-# GitHub Stats:
+## GitHub Stats:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical"/>
   <br/><br/>
@@ -107,6 +107,11 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </div>
+
+## Activity Graph
+<a href="https://github.com/KurenoChan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KurenoChan&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
+</a>
 
 <!-- <span>
   ## GitHub Trophies
