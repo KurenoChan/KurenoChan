@@ -15,14 +15,18 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 ![](https://nirzak-streak-stats.vercel.app/?user=KurenoChan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- <span>
+  ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KurenoChan&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+</span> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![top repositories](https://github-contributor-stats.vercel.app/api?username=KurenoChan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- <span>
+  ### 🔝 Top Contributed Repo
+  ![top repositories](https://github-contributor-stats.vercel.app/api?username=KurenoChan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</span> -->
 
 ### 💰 Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan)
