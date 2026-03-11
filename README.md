@@ -149,8 +149,8 @@
   </a>
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:#FF0000&height=120&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232A,100:61DAFB&height=120&section=footer" width="100%"/>
 </div>
