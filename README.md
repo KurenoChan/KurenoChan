@@ -27,7 +27,16 @@
   <a href="https://www.linkedin.com/in/koh-zheng-hong-3797052b3/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
+
+## Portfolio
+> Projects in progress. Updates coming soon.
+
+## Community
+> Collaborative projects in the works. Details coming soon.
 
 ## Tech Stack
 <div align="center">
