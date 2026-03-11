@@ -92,12 +92,12 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 
 # GitHub Stats:
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical"/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KurenoChan&theme=dark&hide_border=true" height="165"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurenoChan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurenoChan&theme=radical"/>
 </div>
 
 <!-- <span>
@@ -116,7 +116,9 @@ A motivated final-year Software Engineering student at TAR UMT with a strong int
 </span> -->
 
 ### Support Me
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kzh0295x)
+<div align="center">
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kurenochan)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kzh0295x)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
