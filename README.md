@@ -24,7 +24,7 @@
 
 ## Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/koh-zheng-hong-3797052b3/">
+  <a href="https://www.linkedin.com/in/zheng-hong-koh-3797052b3/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:@gmail.com">
